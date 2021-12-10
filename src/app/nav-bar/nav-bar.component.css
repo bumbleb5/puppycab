@@ -1,0 +1,24 @@
+.toolbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    width: 101%;
+}
+
+.app-title {
+    justify-self: start;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.left-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 15px;
+}
+
+.link-div {
+    justify-self: end;
+    padding-right: 15px;
+}
